@@ -1,0 +1,130 @@
+[
+    {
+        "end_date": "2021-05-18 16:00:00",
+        "entrants": 10,
+        "focus": "Special Education",
+        "id": 1,
+        "raised": 500,
+        "slug": "sweepstakes-title",
+        "start_date": "2021-04-15 20:20:00",
+        "state": "accepted",
+        "statuses": [
+            {
+                "id": 4,
+                "slug": "active",
+                "name": "Active"
+            }
+        ],
+        "title": "Sweepstakes Title"
+    },
+    {
+        "end_date": "2021-04-21 16:30:00",
+        "entrants": 20,
+        "focus": "Youth Education New",
+        "id": 2,
+        "raised": 1000,
+        "slug": "sweepstakes-title",
+        "start_date": "2021-04-16 20:00:00",
+        "state": "pending",
+        "statuses": [
+            {
+                "id": 1,
+                "slug": "draft",
+                "name": "Draft"
+            },
+            {
+                "id": 3,
+                "slug": "inactive",
+                "name": "Inactive"
+            }
+        ],
+        "title": "Sweepstakes Title"
+    },
+    {
+        "end_date": "2021-04-30 17:20:00",
+        "entrants": 15,
+        "focus": "Medical Infrastructure",
+        "id": 3,
+        "raised": 1000,
+        "slug": "sweepstakes-title",
+        "start_date": "2021-04-28 20:00:00",
+        "state": "pending",
+        "statuses": [
+            {
+                "id": 2,
+                "slug": "scheduled",
+                "name": "Scheduled"
+            },
+            {
+                "id": 3,
+                "slug": "inactive",
+                "name": "Inactive"
+            }
+        ],
+        "title": "Sweepstakes Title"
+    },
+    {
+        "end_date": "2021-05-12 16:00:00",
+        "entrants": 10,
+        "focus": "Special Education",
+        "id": 4,
+        "raised": 500,
+        "slug": "sweepstakes-title",
+        "start_date": "2021-04-14 20:20:00",
+        "state": "pending",
+        "statuses": [
+            {
+                "id": 4,
+                "slug": "active",
+                "name": "Active"
+            }
+        ],
+        "title": "Sweepstakes Title"
+    },
+    {
+        "end_date": "2021-04-30 17:20:00",
+        "entrants": 15,
+        "focus": "Medical Infrastructure",
+        "id": 5,
+        "raised": 1000,
+        "slug": "sweepstakes-title",
+        "start_date": "2021-04-28 20:00:00",
+        "state": "accepted",
+        "statuses": [
+            {
+                "id": 5,
+                "slug": "completed",
+                "name": "Completed"
+            },
+            {
+                "id": 6,
+                "slug": "winner_notified",
+                "name": "Winner notified"
+            }
+        ],
+        "title": "Sweepstakes Title"
+    },
+    {
+        "end_date": "2021-04-21 16:30:00",
+        "entrants": 20,
+        "focus": "Education",
+        "id": 6,
+        "raised": 500,
+        "slug": "sweepstakes-title",
+        "start_date": "2021-04-16 20:00:00",
+        "state": "accepted",
+        "statuses": [
+            {
+                "id": 1,
+                "slug": "draft",
+                "name": "Draft"
+            },
+            {
+                "id": 3,
+                "slug": "inactive",
+                "name": "Inactive"
+            }
+        ],
+        "title": "Sweepstakes Title"
+    }
+]
